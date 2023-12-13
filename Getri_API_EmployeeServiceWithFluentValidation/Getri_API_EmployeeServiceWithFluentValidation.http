@@ -1,0 +1,6 @@
+@Getri_API_EmployeeServiceWithFluentValidation_HostAddress = http://localhost:5263
+
+GET {{Getri_API_EmployeeServiceWithFluentValidation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
